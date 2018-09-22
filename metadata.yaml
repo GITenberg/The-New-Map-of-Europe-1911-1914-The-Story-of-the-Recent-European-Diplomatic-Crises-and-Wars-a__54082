@@ -1,5 +1,8 @@
 _repo: The-New-Map-of-Europe-1911-1914-The-Story-of-the-Recent-European-Diplomatic-Crises-and-Wars-a__54082
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 54082-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Gibbons, Herbert Adams
@@ -8,6 +11,8 @@ creator:
     gutenberg_agent_id: '25020'
     url: http://www.gutenberg.org/2009/agents/25020
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/54082#The-New-Map-of-Europe-1911-1914-The-Story-of-the-Recent-European-Diplomatic-Crises-and-Wars-a_
 gutenberg_issued: '2017-01-31'
 gutenberg_type: Text
 identifiers:
