@@ -1,0 +1,28 @@
+_repo: The-New-Map-of-Europe-1911-1914-The-Story-of-the-Recent-European-Diplomatic-Crises-and-Wars-a__54082
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Gibbons, Herbert Adams
+    birthdate: 1880
+    deathdate: 1934
+    gutenberg_agent_id: '25020'
+    url: http://www.gutenberg.org/2009/agents/25020
+description: ''
+gutenberg_issued: '2017-01-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '54082'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'World War, 1914-1918 -- Causes'
+- !lcsh 'Europe -- Politics and government -- 1871-1918'
+- !lcsh 'Competition, International'
+- !lcc 'D501'
+- !lcsh 'Eastern question (Balkan)'
+- GITenberg
+title: "The New Map of Europe (1911-1914)\r\nThe Story of the Recent European Diplomatic\
+  \ Crises and Wars and of Europe's Present Catastrophe"
+url: http://www.gutenberg.org/ebooks/54082
